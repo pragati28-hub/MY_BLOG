@@ -41,6 +41,6 @@ Technologies Used
 
 2.Firebase (Authentication, Firestore, Storage)
 
-React Router DOM
 
-Bootstrap / CSS for styling
+
+
