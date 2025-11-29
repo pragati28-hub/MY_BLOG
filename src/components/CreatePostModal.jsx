@@ -20,7 +20,7 @@ export default function CreatePost() {
     };
   }, [preview]);
 
-  // ✅ Handle image selection
+
  
   // ✅ Handle form submit
   const handleSubmit = async (e) => {

@@ -12,6 +12,9 @@ import Profile from './components/Profile.jsx';
 import Sidebar from "./components/Sidebar.jsx";
 import PostCard from "./components/PostCard.jsx";
 import Logout from "./pages/Logout.jsx";
+import EditPost from "./pages/EditPost.jsx"
+
+
 
 function App() {
   return (
@@ -29,6 +32,8 @@ function App() {
           <Route path="/post/:id" element={<Sidebar />} />
           <Route path="/post/:id" element={<PostCard />} />
           <Route path="/logout" element={<Logout />} />
+          <Route path="/edit/:id" element={<EditPost />} />
+
         </Routes>
       </div>
       <Footer />
