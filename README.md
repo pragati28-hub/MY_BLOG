@@ -16,26 +16,3 @@ Create Blog Post
 
 Read/View Blog Posts
 
-Update/Edit Blog Posts
-
-Delete Blog Posts
-
-Only authenticated users can create/edit/delete their own posts
-
-3.Responsive UI
-
-Built with React and Fireabase
-
-Clean, modern interface
-
-4.Firebase Integration
-
-Authentication: Email/password login
-
-Firestore Database: Store blog posts
-
-Technologies Used
-
-1.React JS (Functional Components & Hooks)
-
-2.Firebase (Authentication, Firestore, Storage)
